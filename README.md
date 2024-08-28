@@ -1,4 +1,7 @@
 # PygmyRobot-Darry
+
+Cheminement à angle droit avec quatre capteurs, sur une peinture murale dans une rue.
+
 Right angle path with four sensors, on a painted wall in a street
 
 Code Forth
